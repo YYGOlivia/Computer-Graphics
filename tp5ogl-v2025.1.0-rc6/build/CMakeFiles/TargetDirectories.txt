@@ -1,0 +1,4 @@
+/mnt/e/Desktop/tp5ogl-v2025.1.0-rc6/build/CMakeFiles/renderer.dir
+/mnt/e/Desktop/tp5ogl-v2025.1.0-rc6/build/CMakeFiles/visualizer.dir
+/mnt/e/Desktop/tp5ogl-v2025.1.0-rc6/build/CMakeFiles/edit_cache.dir
+/mnt/e/Desktop/tp5ogl-v2025.1.0-rc6/build/CMakeFiles/rebuild_cache.dir

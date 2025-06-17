@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--no-as-needed CMakeFiles/visualizer.dir/src/main.cpp.o -o visualizer  -Wl,-rpath,/mnt/e/Desktop/tp5ogl-v2025.1.0-rc6/build librenderer.so /usr/lib/x86_64-linux-gnu/libGLU.so /usr/lib/x86_64-linux-gnu/libglut.so /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so /usr/lib/x86_64-linux-gnu/libXmu.so /usr/lib/x86_64-linux-gnu/libXi.so
