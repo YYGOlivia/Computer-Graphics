@@ -28,11 +28,3 @@ See [BUILD](BUILD.md) text file
 ## License
 
 See [LICENSE](LICENSE) text file
-
-## Authors
-
-Simone Gasparini
-
-## Contact
-
-Simone Gasparini <simone.gasparini@irit.fr>
